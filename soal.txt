@@ -1,0 +1,79 @@
+Pertanyaan: Siapa yang pertama kali mendarat di Bulan?
+A: Yuri Gagarin
+B: Neil Armstrong
+C: Buzz Aldrin
+D: John Glenn
+Jawaban: B
+Gambar: images/moonlanding.png
+
+Pertanyaan: Apa nama ibu kota negara Australia?
+A: Sydney
+B: Melbourne
+C: Canberra
+D: Perth
+Jawaban: C
+Gambar: images/canberra.png
+
+Pertanyaan: Dalam olahraga sepak bola, berapa jumlah pemain dalam satu tim di lapangan?
+A: 9
+B: 10
+C: 11
+D: 12
+Jawaban: C
+Gambar: images/soccer.png
+
+Pertanyaan: Hewan apa yang dikenal sebagai mamalia terbesar di dunia?
+A: Gajah
+B: Ikan Paus Biru
+C: Jerapah
+D: Beruang Kutub
+Jawaban: B
+Gambar: images/whale.png
+
+Pertanyaan: Siapa penulis novel terkenal "The Great Gatsby"?
+A: Ernest Hemingway
+B: F. Scott Fitzgerald
+C: Mark Twain
+D: Harper Lee
+Jawaban: B
+Gambar: images/gatsby.png
+
+Pertanyaan: Apa nama gunung tertinggi di dunia?
+A: Gunung Kilimanjaro
+B: Gunung Everest
+C: Gunung Elbrus
+D: Gunung McKinley
+Jawaban: B
+Gambar: images/everest.png
+
+Pertanyaan: Apa nama candi Buddha terbesar di dunia yang terletak di Indonesia?
+A: Candi Prambanan
+B: Candi Mendut
+C: Candi Borobudur
+D: Candi Muara Takus
+Jawaban: C
+Gambar: images/borobudur.png
+
+Pertanyaan: Dalam sistem tata surya kita, planet mana yang paling dekat dengan Matahari?
+A: Venus
+B: Mars
+C: Merkurius
+D: Bumi
+Jawaban: C
+Gambar: images/mercury.png
+
+Pertanyaan: Siapa pelukis terkenal yang menciptakan lukisan "Mona Lisa"?
+A: Vincent van Gogh
+B: Pablo Picasso
+C: Leonardo da Vinci
+D: Claude Monet
+Jawaban: C
+Gambar: images/monalisa.png
+
+Pertanyaan: Apa alat musik tradisional Indonesia yang dimainkan dengan cara dipukul?
+A: Gamelan
+B: Angklung
+C: Seruling
+D: Sasando
+Jawaban: A
+Gambar: images/gamelan.png
